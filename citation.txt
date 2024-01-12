@@ -1,0 +1,7 @@
+@inproceedings{REPO145,
+    author = "Luo, Gen and Zhou, Yiyi and Sun, Xiaoshuai and Cao, Liujuan and Wu, Chenglin and Deng, Cheng and Ji, Rongrong",
+    booktitle = "2020 {{IEEE}}/{{CVF Conference}} on {{Computer Vision}} and {{Pattern Recognition}} ({{CVPR}})",
+    pages = "10031--10040",
+    title = "{Multi-{{Task Collaborative Network}} for {{Joint Referring Expression Comprehension}} and {{Segmentation}}}",
+    year = "2020"
+}
